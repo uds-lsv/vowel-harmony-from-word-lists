@@ -1,0 +1,108 @@
+Name,Glottocode,ID,Family,Subfamily,Vowel Harmony,Comment
+Finnish,finn1318,fin,Uralic,Finnic,1,Inherited from Proto-Finnic
+North Karelian,kare1335,krl,Uralic,Finnic,1,Inherited from Proto-Finnic
+Olonets Karelian,livv1243,olo,Uralic,Finnic,1,Effect on consonants (palatalization)
+Veps,veps1250,vep,Uralic,Finnic,1,Inherited from Proto-Finnic
+Estonian,esto1258,ekk,Uralic,Finnic,0,"Vowels in unstressed syllables reduced to a,i,u,e(,o)"
+Livonian,livv1244,liv,Uralic,Finnic,0,Also lost consonantal gradation
+Southern Sami,sout2674,sma,Uralic,Saami,2,Inherited from Proto-Samic
+Lule Sami,lule1254,smj,Uralic,Saami,2,Inherited from Proto-Samic
+Northern Sami,nort2671,sme,Uralic,Saami,2,Umlaut obscured by vowel reduction?
+Inari Sami,inar1241,smn,Uralic,Saami,2,Inherited from Proto-Samic
+Skolt Sami,skol1241,sms,Uralic,Saami,2,Inherited from Proto-Samic
+Kildin Sami,kild1236,sjd,Uralic,Saami,2,Inherited from Proto-Samic
+Hill Mari,west2392,mrj,Uralic,Mari,1,"Front/Back, Round/Unround"
+Meadow Mari,east2328,mhr,Uralic,Mari,1,"Front/Back, Round/Unround"
+Moksha,moks1248,mdf,Uralic,Mordvin,1,
+Erzya,erzy1239,myv,Uralic,Mordvin,1,
+Udmurt,udmu1245,udm,Uralic,Permian,0,
+Komi-Permyak,komi1269,koi,Uralic,Permian,0,
+Komi-Zyrian,komi1268,kpv,Uralic,Permian,0,
+Hungarian,hung1274,hun,Uralic,Hungarian,1,
+Northern Khanty,khan1273,kca,Uralic,Khantyic,1,
+Northern Mansi,mans1258,mns,Uralic,Mansic,1,
+Northern Selkup,selk1253,sel,Uralic,Samoyedic,0,Weak?
+Tundra Nenets,nene1249,yrk,Uralic,Samoyedic,0,Weak?
+Forest Enets,fore1265,enf,Uralic,Samoyedic,0,Weak?
+Nganasan,ngan1291,nio,Uralic,Samoyedic,1,Inherited from Proto-Samoyedic
+Bengali,beng1280,ben,Indo-European,Indo-Aryan,0,
+Hindi,hind1269,hin,Indo-European,Indo-Aryan,0,
+Northern Pashto,nort2646,pbu,Indo-European,Iranian,0,
+Western Farsi,west2369,pes,Indo-European,Iranian,0,
+Northern Kurdish,nort2641,kmr,Indo-European,Iranian,0,
+Ossetian,osse1243,oss,Indo-European,Iranian,0,
+Armenian,nucl1235,hye,Indo-European,Armenic,0,
+Modern Greek,mode1248,ell,Indo-European,Graeco-Phrygian,0,
+Standard Albanian,alba1267,sqi,Indo-European,Albanian,0,
+Bulgarian,bulg1262,bul,Indo-European,Balto-Slavic,0,
+Croatian,croa1245,hrv,Indo-European,Balto-Slavic,0,
+Slovene,slov1268,slv,Indo-European,Balto-Slavic,0,
+Slovak,slov1269,slk,Indo-European,Balto-Slavic,0,
+Czech,czec1258,ces,Indo-European,Balto-Slavic,0,
+Polish,poli1260,pol,Indo-European,Balto-Slavic,0,
+Ukrainian,ukra1253,ukr,Indo-European,Balto-Slavic,0,
+Belarusian,bela1254,bel,Indo-European,Balto-Slavic,0,
+Russian,russ1263,rus,Indo-European,Balto-Slavic,0,
+Lithuanian,lith1251,lit,Indo-European,Balto-Slavic,0,
+Latvian,latv1249,lav,Indo-European,Balto-Slavic,0,
+Icelandic,icel1247,isl,Indo-European,Germanic,2,
+Norwegian (Bokmål),norw1258,nor,Indo-European,Germanic,0,
+Swedish,swed1254,swe,Indo-European,Germanic,0,
+Danish,dani1285,dan,Indo-European,Germanic,0,
+German,stan1295,deu,Indo-European,Germanic,2,
+Dutch,dutc1256,nld,Indo-European,Germanic,0,
+English,stan1293,eng,Indo-European,Germanic,0,
+Irish,iris1253,gle,Indo-European,Celtic,2,
+Welsh,wels1247,cym,Indo-European,Celtic,2,
+Breton,bret1244,bre,Indo-European,Celtic,0,
+Latin,lati1261,lat,Indo-European,Italic,0,
+French,stan1290,fra,Indo-European,Italic,0,Have some vestiges of umlaut
+Catalan,stan1289,cat,Indo-European,Italic,0,Have some vestiges of umlaut
+Spanish,stan1288,spa,Indo-European,Italic,0,Have some vestiges of umlaut
+Portuguese,port1283,por,Indo-European,Italic,0,Have some vestiges of umlaut
+Italian,ital1282,ita,Indo-European,Italic,0,Have some vestiges of umlaut
+Romanian,roma1327,ron,Indo-European,Italic,0,Have some vestiges of umlaut
+Turkish,nucl1301,tur,Turkic,West Oghuz,1,
+North Azerbaijani,nort2697,azj,Turkic,West Oghuz,1,
+Northern Uzbek,nort2690,uzn,Turkic,Uzbek,1,
+Kazakh,kaza1248,kaz,Turkic,Kipchak,1,
+Bashkir,bash1264,bak,Turkic,Kipchak,1,
+Tatar,tata1255,tat,Turkic,Kipchak,1,
+Sakha,yaku1245,sah,Turkic,North Siberian Turkic,1,
+Chuvash,chuv1255,chv,Turkic,Bolgar,1,
+Khalkha Mongolian,halh1238,khk,Mongolic,Eastern Mongolic,1,
+Buryat,buri1258,bua,Mongolic,Eastern Mongolic,1,
+Kalmyk,kalm1243,xal,Mongolic,Eastern Mongolic,1,
+Evenki,even1259,evn,Tungusic,Northern Tungusic,1,"Weak, Back/Front"
+Manchu,manc1252,mnc,Tungusic,Manchu-Jurchen,1,Back/Front
+Nanai,nana1257,gld,Tungusic,Central Tungusic,1,Back/Front
+Ket,kett1243,ket,Yeniseian,Northern Yeniseian,0,
+Northern Yukaghir,nort2745,ykg,Yukaghir,Northern Yukaghir,0,"Tundra Yukagir, residual vowel harmony"
+Southern Yukaghir,sout2750,yux,Yukaghir,Kolymic,0,"Forest Yukagir, residual vowel harmony"
+Itelmen,itel1242,itl,Chukotko-Kamchatkan,Itelmen,0,
+Chukchi,chuk1273,ckt,Chukotko-Kamchatkan,Chukotian,0,
+Nivkh,gily1242,niv,Nivkh,Nivkh,0,
+Hokkaido Ainu,ainu1240,ain,Ainu,Hokkaido-Kuril Ainu,0,
+Korean,kore1280,kor,Koreanic,Korean,1,"Front/Mid?, Declining from Middle Korean"
+Japanese,nucl1643,jpn,Japonic,Japanesic,0,"Disputedly exists in some dialects, might have existed in Old Japanese"
+Aleut,aleu1260,ale,Eskimo-Aleut,Aleut,0,
+Central Siberian Yupik,cent2128,ess,Eskimo-Aleut,Eskimo,0,
+Kalaallisut,kala1399,kal,Eskimo-Aleut,Eskimo,0,
+Kannada,nucl1305,kan,Dravidian,South Dravidian,0,
+Malayalam,mala1464,mal,Dravidian,South Dravidian,0,
+Tamil,tami1289,tam,Dravidian,South Dravidian,0,
+Telugu,telu1262,tel,Dravidian,South Dravidian,1,"Open/Closed, Tense/Lax"
+Burushaski,buru1296,bsk,Burushaski,Burushaski,0,
+Georgian,nucl1302,kat,Kartvelian,Georgian-Zan,0,
+Basque,basq1248,eus,Basque,Basque,0,
+Abkhaz,abkh1244,abk,Abkhaz-Adyge,Abkhaz-Abaza,0,Only two vowel phonemes
+Adyghe,adyg1241,ady,Abkhaz-Adyge,Circassian,0,Adyghe has only 3 vowel phonemes
+Avar,avar1256,ava,Nakh-Daghestanian,Daghestanian,0,
+Tsez,dido1241,ddo,Nakh-Daghestanian,Daghestanian,0,
+Lak,lakk1252,lbe,Nakh-Daghestanian,Daghestanian,0,
+Lezgian,lezg1247,lez,Nakh-Daghestanian,Daghestanian,0,
+Dargwa,darg1241,dar,Nakh-Daghestanian,Daghestanian,0,
+Chechen,chec1245,che,Nakh-Daghestanian,Nakh,0,
+Standard Arabic,stan1318,arb,Afro-Asiatic,Semitic,0,
+Modern Hebrew,hebr1245,heb,Afro-Asiatic,Semitic,0,
+Mandarin Chinese,mand1415,cmn,Sino-Tibetan,Sinitic,0,
